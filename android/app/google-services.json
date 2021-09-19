@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1091531185776",
+    "project_id": "shifa-hub",
+    "storage_bucket": "shifa-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091531185776:android:f79bc6b1806909a49d9eb5",
+        "android_client_info": {
+          "package_name": "com.example.shifahub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091531185776-0v5vjrarl7ktork86tnacnokhct12c3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shifahub",
+            "certificate_hash": "3311998ef4ff942932345d12530424be79574b3d"
+          }
+        },
+        {
+          "client_id": "1091531185776-qsk44vt8fmkj6rjoper7urhgbeqjf9m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw574aH73hfpFZmmD9dgQtv_4ESbZK7Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091531185776-qsk44vt8fmkj6rjoper7urhgbeqjf9m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
