@@ -1,6 +1,6 @@
 # SHIFA HUB // Club House Invite Only App in Flutter
 
-A Flutter App with invite only features Using Firebase.
+A Flutter App with invite only features Using Firebase.<br>
 Subscribe Our YouTube Channel.<br><br>
  ![YouTube](https://img.shields.io/youtube/channel/subscribers/UC7MuoT7cZtLjd6FoV9lHZ_g?style=social)<br>
 <a href="http://www.shifahub.ml" target="_parent"><button>Visit Website</button></a><br><br>
